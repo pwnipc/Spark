@@ -10,6 +10,8 @@ tags:
 
 This example starts a basic [Spark Java](https://sparkjava.com/) web server.
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/GrNJx2?referralCode=Mk7XAN)
+
 
 ## ✨ Features
 
